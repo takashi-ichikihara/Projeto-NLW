@@ -7,7 +7,6 @@
 <strong>Professor:</strong> Diego Schell Fernandes <br />
 <strong>Tecnologia:</strong> React.js
 
-
 <p align="center">
   <img alt="Letmeask" src=".github/logo.svg" width="160px">
 </p>
@@ -75,5 +74,7 @@ Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
+
+Feito com 💜 by Rocketseat 👋🏻 [Participe da nossa comunidade](https://discord.gg/gKUVrzrPrU)
 
 Feito com 💜 by Rocketseat 👋🏻 [Participe da nossa comunidade](https://discord.gg/gKUVrzrPrU)

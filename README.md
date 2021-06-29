@@ -8,7 +8,7 @@
 <strong>Tecnologia:</strong> React.js
 
 <p align="center">
-  <img alt="Letmeask" src=".github/logo.svg" width="160px">
+  <img alt="Letmeask" src=".github/takashi-ichikihara/logo.svg" width="160px">
 </p>
 
 <p align="center">
